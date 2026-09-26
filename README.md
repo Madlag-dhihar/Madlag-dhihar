@@ -10,16 +10,16 @@ Currently, I'm focused on building projects that combine data science, machine l
 
 ## 🚀 About Me
 
-🎓 Data Science Student at **BINUS University**
-🧠 Interested in **Machine Learning, Deep Learning, Data Analytics, AI, and Football Analytics**
-🏆 **1st Place — Data Quest**
-💼 **Assistant Manager — BNEC Talent Development**
-🎓 **CIMB Niaga Scholarship Awardee — Bantuan Anak Karyawan Berprestasi 2026**
-📚 AWS Academy ML Foundations
-🧠 NVIDIA Deep Learning Foundation
-🤖 Google AI Fundamentals
-💻 Building end-to-end Data Science and Machine Learning projects
-⚽ Exploring the intersection of **Data Science and Football Analytics**
+- 🎓 Data Science Student at **BINUS University**
+- 🧠 Interested in **Machine Learning, Deep Learning, Data Analytics, AI, and Football Analytics**
+- 🏆 **1st Place — Data Quest**
+- 💼 **Assistant Manager — BNEC Talent Development**
+- 🎓 **CIMB Niaga Scholarship Awardee — Bantuan Anak Karyawan Berprestasi 2026**
+- 📚 AWS Academy ML Foundations
+- 🧠 NVIDIA Deep Learning Foundation
+- 🤖 Google AI Fundamentals
+- 💻 Building end-to-end Data Science and Machine Learning projects
+- ⚽ Exploring the intersection of **Data Science and Football Analytics**
 
 ---
 
