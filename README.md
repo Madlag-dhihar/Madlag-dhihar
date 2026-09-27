@@ -2,9 +2,9 @@
 
 **Data Science Student | Machine Learning | Data Analytics**
 
-I'm a Data Science student at BINUS University with an interest in Machine Learning, Deep Learning, Data Analytics, AI, and Football Analytics. I enjoy working with data to discover patterns, build predictive models, and develop practical solutions for real-world problems.
+I'm a Data Science student at BINUS University with an interest in Machine Learning, Deep Learning, Data Analytics, AI, and Football Analytics. I enjoy working with data to discover patterns, build predictive models, and develop practical solutions for real world problems.
 
-Currently, I'm focused on building projects that combine data science, machine learning, and real-world applications — from data processing and analysis to modeling and deployment.
+Currently, I'm focused on building projects that combine data science, machine learning, and real world applications from data processing and analysis to modeling and deployment as well as finishing my degree.
 
 ---
 
